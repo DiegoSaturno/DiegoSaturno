@@ -3,7 +3,7 @@
 ![Hello there!](images/hellothere.gif)
 ### ~~GENERAL KENOBI!~~
 
-<br><br>
+<br>
 
 # I'm Diego, a software engineer who likes Kotlin and JavaScript **a lot**.
 
