@@ -9,7 +9,7 @@
 
 - Computer Science student at PUC-MG _~~for way too many years~~_
 
-- I'm currently working as a Software Engineer at [Take Blip](https://www.take.net/en/home/)
+<!-- - I'm currently working as a Software Engineer at [Take Blip](https://www.take.net/en/home/)-->
 
 - Nowadays, I work a lot with **C#/.NET Core, Vue.js, Angular.js, SQL Server, Redis and Cassandra.** I also code my personal projects with **Node.js, Spring Boot and React.**
 
