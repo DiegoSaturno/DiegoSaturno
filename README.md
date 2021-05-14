@@ -9,9 +9,9 @@
 
 - Computer Science student at PUC-MG _~~for way too many years~~_
 
-- I'm currently working as a Software Engineer at [CI&T](https://ciandt.com/us/en-us)
+- I'm currently working as a Software Engineer at [CI&T](https://ciandt.com/)
 
-- Nowadays, I work a lot with **C#/.NET Core, Vue.js, Angular.js, SQL Server, Redis and Cassandra.** I also code my personal projects with **Node.js, Spring Boot and React.**
+- Nowadays, I work a lot with **C#/.NET Core, React, Redux, Kafka, Postgres, Docker and Kubernetes.**.
 
 - I listen to a lot of metal. I love Dream Theater, Periphery, Tesseract, Epica and some other bands. You can find my lifetime playlist below! (Click on the now playing widget).
 
