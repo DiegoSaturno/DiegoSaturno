@@ -11,7 +11,7 @@
 
 - I'm currently working as a Software Engineer at [CI&T](https://ciandt.com/)
 
-- Nowadays, I work a lot with **C#/.NET Core, React, Redux, Kafka, Postgres, Docker and Kubernetes.**.
+- Nowadays, I work a lot with **C#/.NET Core, React, Redux, Kafka, Postgres, Docker and Kubernetes**.
 
 - I listen to a lot of metal. I love Dream Theater, Periphery, Tesseract, Epica and some other bands. You can find my lifetime playlist below! (Click on the now playing widget).
 
