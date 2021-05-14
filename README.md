@@ -13,8 +13,7 @@
 
 - Nowadays, I work a lot with **C#/.NET Core, React, Redux, Kafka, Postgres, Docker and Kubernetes**.
 
-- I listen to a lot of metal. I love Dream Theater, Periphery, Tesseract, Epica and some other bands. You can find my lifetime playlist below! (Click on the now playing widget).
-
+- I listen to a lot of metal. I love Dream Theater, Periphery, Tesseract, Epica and some other bands. You can find my lifetime playlist [here!](https://open.spotify.com/playlist/2SW0uHhTCw2GkQj7nNcofG?si=c6fa716ed69e4471)
 - I absolutely love Sci-Fi and Fantasy. My favorite shows are Doctor Who and Battlestar Galactica.
 
 - I'm learning functional programming.
