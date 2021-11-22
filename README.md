@@ -5,7 +5,7 @@
 
 <br>
 
-# I'm Diego, a software engineer who likes Kotlin and JavaScript **a lot**.
+# I'm Diego, a software engineer who likes JavaScript **a lot**.
 
 - Computer Science student at PUC-MG _~~for way too many years~~_
 
