@@ -26,15 +26,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@honorthydoctor-blue?logo=twitter&logoColor=white)](https://twitter.com/honorthydoctor)
 [![Email](https://img.shields.io/badge/Email-diego.setubal1@gmail.com-FF0000?logo=gmail&logoColor=white)](diego.setubal1@gmail.com)
 
-
 <br>
-
-# 🎸 Now Playing! 
-
-[![Spotify](https://diegosaturno.vercel.app/api/spotify)](https://open.spotify.com/playlist/2SW0uHhTCw2GkQj7nNcofG?si=uUhz8ujjQ1CUc9pwzrecjA)
-
-
-
 # 💻 Stats and Stuff
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSaturno&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
