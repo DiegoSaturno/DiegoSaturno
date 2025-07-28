@@ -27,6 +27,7 @@
 [![Email](https://img.shields.io/badge/Email-diego.setubal1@gmail.com-FF0000?logo=gmail&logoColor=white)](diego.setubal1@gmail.com)
 
 <br>
+
 # 💻 Stats and Stuff
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSaturno&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
