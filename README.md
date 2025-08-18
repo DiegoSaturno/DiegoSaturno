@@ -23,7 +23,7 @@
 # 💬 Contact me
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-Diego%20Oliveira-00BFFF?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegooliveiras/)
-[![Email](https://img.shields.io/badge/Email-diego.setubal1@gmail.com-FF0000?logo=gmail&logoColor=white)](diego.setubal1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-diego.setubal1@gmail.com-FF0000?logo=gmail&logoColor=white)](mailto://diego.setubal1@gmail.com)
 
 <br>
 
