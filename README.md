@@ -22,8 +22,7 @@
 
 # 💬 Contact me
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-Diego%20Oliveira-00BFFF?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-oliveira-b3a352115/)
-[![Twitter](https://img.shields.io/badge/Twitter-@honorthydoctor-blue?logo=twitter&logoColor=white)](https://twitter.com/honorthydoctor)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Diego%20Oliveira-00BFFF?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegooliveiras/)
 [![Email](https://img.shields.io/badge/Email-diego.setubal1@gmail.com-FF0000?logo=gmail&logoColor=white)](diego.setubal1@gmail.com)
 
 <br>
